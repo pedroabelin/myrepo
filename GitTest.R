@@ -7,4 +7,4 @@ edit_git_config()
 
 "hello back"
 
-"My name is Pedro" 
+"My name is Pedro"  
